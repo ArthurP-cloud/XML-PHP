@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<venda>
+  <id>1</id>
+  <nome>Arthur</nome>
+  <email>arthur@teste.com</email>
+  <celular>(55) 9999-9999</celular>
+</venda>

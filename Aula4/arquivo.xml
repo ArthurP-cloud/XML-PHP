@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario>
+    <nome>Arthur</nome>
+    <email>arthur@teste.com</email>
+  </usuario>
+  <usuario>
+    <nome>Carol</nome>
+    <email>carol@teste.com</email>
+  </usuario>
+</usuarios>

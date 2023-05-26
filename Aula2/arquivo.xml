@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vendas>
+  <titulo>Relatório de vendas</titulo>
+  <relatorio>Venda mensal</relatorio>
+    <venda>
+      <id>1</id>
+      <nome>Arthur</nome>
+      <email>arthur@teste.com</email>
+      <celular>(55) 9999-9999</celular>
+      <produtos>
+        <produto>
+          <id>52</id>
+          <nome>Produto 52</nome>
+          <quantidade>37</quantidade>
+        </produto>
+        <produto>
+          <id>7</id>
+          <nome>Produto 7</nome>
+          <quantidade>5</quantidade>
+        </produto>
+      </produtos>
+    </venda>
+    <venda>
+      <id>2</id>
+      <nome>Carol</nome>
+      <email>carol@teste.com</email>
+      <celular>(55) 9999-9998</celular>
+      <produtos>
+        <produto>
+          <id>27</id>
+          <nome>Produto 27</nome>
+          <quantidade>3</quantidade>
+        </produto>
+        <produto>
+          <id>15</id>
+          <nome>Produto 15</nome>
+          <quantidade>51</quantidade>
+        </produto>
+      </produtos>
+    </venda>
+</vendas>
